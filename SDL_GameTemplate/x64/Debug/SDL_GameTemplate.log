@@ -1,0 +1,12 @@
+﻿  Game.cpp
+D:\facultate an 2\jos snake sdl\iftime31\SDL_GameTemplate\Game.cpp(96,39): warning C4101: 'e': unreferenced local variable
+D:\facultate an 2\jos snake sdl\iftime31\SDL_GameTemplate\Game.cpp(104,39): warning C4101: 'e': unreferenced local variable
+  GameObject.cpp
+  Main.cpp
+  Map.cpp
+D:\facultate an 2\jos snake sdl\iftime31\SDL_GameTemplate\Map.cpp(164,39): warning C4101: 'e': unreferenced local variable
+  Player.cpp
+  TextureManager.cpp
+  Generating Code...
+D:\facultate an 2\jos snake sdl\iftime31\SDL_GameTemplate\Map.cpp(167): warning C4715: 'Map::exceptie': not all control paths return a value
+  SDL_GameTemplate.vcxproj -> D:\facultate an 2\jos snake sdl\iftime31\x64\Debug\SDL_GameTemplate.exe
